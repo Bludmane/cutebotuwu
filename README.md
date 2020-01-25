@@ -1,4 +1,4 @@
-# Filo 
+# Filo wasnt made by me lol
 A cute, multipurpose Discord bot for all your kawaii needs.
 
 ### Invite Filo to your Guild
